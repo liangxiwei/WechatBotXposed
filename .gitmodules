@@ -1,0 +1,3 @@
+[submodule "WechatSpellbook"]
+	path = WechatSpellbook
+	url = https://github.com/liangxiwei/WechatSpellbook.git
